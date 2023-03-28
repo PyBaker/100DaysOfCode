@@ -1,0 +1,14 @@
+button {
+    padding: 30px;
+    margin: 10px;
+    grid-auto-rows: 40px;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 50px;
+}
+
+button:hover {
+    transition-duration: 0.4s;
+    color: aliceblue;
+    background-color: blueviolet;
+}
