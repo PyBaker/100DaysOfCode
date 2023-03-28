@@ -1,5 +1,0 @@
-hello
-if os.path.isfile('./backup_setting.txt'):
-This is the back up
-    print('Do you want to back up the same folders as last time ?')
-    answer = input('Do you want to back up the same folders as last time ?')
